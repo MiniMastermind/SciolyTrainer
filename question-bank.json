@@ -1,6 +1,5 @@
 {
     "fermi": {
-        "og": {
             "What is the area of Madagascar, in square angstroms?": 32,
             "How tall, in feet, is the 22nd tallest building in the world?": 3,
             "What is 7<sup>43</sup>?": 36,
@@ -166,8 +165,6 @@
             "The diameter of a chromium atom is about 2.4 Å (10 Å = 1nm). How many chromium atoms would have to be lined up to span 1.0 cm?": 7,
             "How many hydrogen atoms are present in 1 mg of aspartame (C<sub>14</sub>H<sub>18</sub>N<sub>2</sub>O<sub>5</sub>), the artificial sweetener?": 19,
             "What is the mass, in grams, of all electrons within a single copper atom?": -26
-        },
-        "NC State Example": {
             "How many microseconds would it take to count to a trillion, if you count 100 numbers in 1 minute?": 18,
             "How many gallons of milk is produced in the United States each year?": 10,
             "How many hours of sleep does an average person get in a life time in the U.S.?": 5,
@@ -197,8 +194,6 @@
             "What is the number of deer killed by hunters in North Carolina last season divided by the human population of North Carolina?": -2,
             "What are odds of having a deer-vehicle collision in North Carolina in the next 12 months?": -3,
             "How many grams of feces is produced annually by hogs in North Carolina?": 13
-        },
-        "NC State": {
             "How many texts are sent every hour of every day worldwide, not including app-to-app messaging?": 9,
             "How many school buses to equal the weight of the sun ?": 26,
             "What is the acceleration caused by Earth's gravity divided by free fall acceleration of the Sun?": -2,
@@ -229,8 +224,6 @@
             "The SO bacteria need a living space of about 30x104 cm in all directions to thrive. How many of these thriving bacteria might be found in a gram of pond water?": 7,
             "If the SO bacteria don't die, how many hours will it take for two to reproduce and make a volume equal to that of the earth?": 0,
             "How many times could a basketball player bounce a ball during her teenage years if she didn't stop to eat, sleep, etc.?": 8
-        },
-        "Yale YPO": {
             "If all the rain that falls during a typical summer rainstorm were gathered into a single drop, what would the drop’s radius be?": 3,
             "When a large ship (oil tanker / cargo ship / aircraft carrier / etc.) is placed into the ocean, how much does the global sea level rise?": -10,
             "Archimedes of Syracuse was a philosopher, inventor, and scientist who lived and died in Sicily more than 2,000 years ago. Assuming that the earth’s atmosphere has been thoroughly mixed since then, how many molecules from his final breath are in your lungs right now?":1,
@@ -246,58 +239,49 @@
             "If all the soda that is drunk in the United States during a typical day were gathered into a single drop, what would the drop’s radius be in meters?": 2,
             "How many generations back do you have to go until your total number of ancestors is equal to the world population?": 1,
             "If electric energy costs $0.1 per kilowatt hour, and is delivered to your home at a voltage of 120 Volts, what is the cost of one electron? ": -24
-        },
-        "NJ AAPT": {
-            "How many piano tuners are there in Chicago?": 2,
-            "What is pi to the power of 9?": 4,
-            "How many pounds of rice were consumed by people living in the U.S. last year?": 10,
-            "How many board game dice does it take to equal the mass of the average human?": 4,
-            "What number of tennis balls would you have to lay on the surface area of an Olympic-sized pool in order to fully cover it?": 5,
-            "How much trash (in pounds) does the average family produce in a year?": 3,
-            "What volume of air (in Liters) do you breathe in one day?": 3,
-            "If we could brew coffee in swimming pools, how many pools would we need to satisfy the need in the U.S. on a given day?": 2,
-            "How many pennies would it take to make a stack the height of the Empire State Building?": 5
-        },
-        "Cornell": {
-            "How many centimeters are in 40,000 miles?": 10,
-            "What is the probability that you will end up with the exact same card sequence as you started after shuffling it?": -68
-        },
-        "BirdSO": {
-            "Calculate 10<sup>100</sup> - 10<sup>99</sup> - 10<sup>98</sup> - ... - 10<sup>1</sup>.": 100,
-            "How many bird species are there in North America?": 3,
-            "How many molecules of ATP are used in an average human in one day?": 26,
-            "Compute 2<sup>2<sup>2<sup>2<sup>2</sup></sup></sup></sup>": 19728,
-            "How many fish are there, on average, per meter cubed of water in the Earth's ocean?": -6,
-            "What is the worldwide coffee bean production in picograms?": 25,
-            "Norway is the 118th most populous country in the world. What is the population of Norway?": 7
-        },
-        "Seven Lakes": {
-            "What is 75<sup>56</sup>?": 105,
-            "How many different ways are there to arrange 8 objects in a circle?": 4,
-            "How many times more massive is the Sun than the Moon?": 7,
-            "How many carbon atoms would it take in order to create a single-file line of atoms around the Earth?": 17,
-            "What is the force required to break a covalent bond, in Newtons?": -9,
-            "How much mass, in kg, is the Sun losing every second?": 9
-        },
-        "Haadi": {
-            "How many grams of cheese does Wisconsin produce every day?": 9
-        },
-        "UMich": {
-            "As of 2017, how many minutes of movie has Steven Spielberg directed?": 3,
-            "Assume that in a game of Rock-Paper-Scissors, the hands played by both participants are chosen completely randomly with an equal chance of choosing Rock, Paper, or Scissors. If the two choose the same hand, they do another round. What is the probability the two play the same hand exactly 72 times before finally declaring a winner?": -35,
-            "Surface area of an iPhone in hectares": -6,
-            "26<sup>9</sup>": 13,
-            "Mass of a mole(unit) of moles(animal) in ounces": 24,
-            "How mnay credit cards would fit in the stratosphere": 25,
-            "A sample of pure iridium weighs as much as a bread loaf. How many atom of iridium are in this sample?": 24,
-            "Electron diameter in light years": -32,
-            "How many individual fries does McDonald's sell yearly": 12,
-            "How many exa-newtons of force does the Earth’s gravitational field apply on a single grain of rice located on the surface of the Moon?": -25,
-            "How many times does the string “cell” appear in Campbell’s Biology, 9th edition? (Note: any word that contains “cell”, such as “intracellular” or “cellulose”, would count)": 3,
-            "How many standard AAA batteries would it take to equal the total installed wind energy capacity of the world?": 5,
-            "How many cells are in the typical human body?": 13,
-            "If every person who ever lived crowded together in one spot, how much area would be covered, in terms of the area of Rhode Island?": 1,
-            "How many pennies would it take to create a walkable bridge from Boston, MA to Portugal, assuming that pennies sink (and that you therefore must stack pennies from the bottom of the ocean floor)": 16
-        }
+        "How many piano tuners are there in Chicago?": 2,
+        "What is pi to the power of 9?": 4,
+        "How many pounds of rice were consumed by people living in the U.S. last year?": 10,
+        "How many board game dice does it take to equal the mass of the average human?": 4,
+        "What number of tennis balls would you have to lay on the surface area of an Olympic-sized pool in order to fully cover it?": 5,
+        "How much trash (in pounds) does the average family produce in a year?": 3,
+        "What volume of air (in Liters) do you breathe in one day?": 3,
+        "If we could brew coffee in swimming pools, how many pools would we need to satisfy the need in the U.S. on a given day?": 2,
+        "How many pennies would it take to make a stack the height of the Empire State Building?": 5
+        "How many centimeters are in 40,000 miles?": 10,
+        "What is the probability that you will end up with the exact same card sequence as you started after shuffling it?": -68
+        "Calculate 10<sup>100</sup> - 10<sup>99</sup> - 10<sup>98</sup> - ... - 10<sup>1</sup>.": 100,
+        "How many bird species are there in North America?": 3,
+        "How many molecules of ATP are used in an average human in one day?": 26,
+        "Compute 2<sup>2<sup>2<sup>2<sup>2</sup></sup></sup></sup>": 19728,
+        "How many fish are there, on average, per meter cubed of water in the Earth's ocean?": -6,
+        "What is the worldwide coffee bean production in picograms?": 25,
+        "Norway is the 118th most populous country in the world. What is the population of Norway?": 7
+        "What is 75<sup>56</sup>?": 105,
+        "How many different ways are there to arrange 8 objects in a circle?": 4,
+        "How many times more massive is the Sun than the Moon?": 7,
+        "How many carbon atoms would it take in order to create a single-file line of atoms around the Earth?": 17,
+        "What is the force required to break a covalent bond, in Newtons?": -9,
+        "How much mass, in kg, is the Sun losing every second?": 9
+        "How many grams of cheese does Wisconsin produce every day?": 9
+        "As of 2017, how many minutes of movie has Steven Spielberg directed?": 3,
+        "Assume that in a game of Rock-Paper-Scissors, the hands played by both participants are chosen completely randomly with an equal chance of choosing Rock, Paper, or Scissors. If the two choose the same hand, they do another round. What is the probability the two play the same hand exactly 72 times before finally declaring a winner?": -35,
+        "Surface area of an iPhone in hectares": -6,
+        "26<sup>9</sup>": 13,
+        "Mass of a mole(unit) of moles(animal) in ounces": 24,
+        "How mnay credit cards would fit in the stratosphere": 25,
+        "A sample of pure iridium weighs as much as a bread loaf. How many atom of iridium are in this sample?": 24,
+        "Electron diameter in light years": -32,
+        "How many individual fries does McDonald's sell yearly": 12,
+        "How many exa-newtons of force does the Earth’s gravitational field apply on a single grain of rice located on the surface of the Moon?": -25,
+        "How many times does the string “cell” appear in Campbell’s Biology, 9th edition? (Note: any word that contains “cell”, such as “intracellular” or “cellulose”, would count)": 3,
+        "How many standard AAA batteries would it take to equal the total installed wind energy capacity of the world?": 5,
+        "How many cells are in the typical human body?": 13,
+        "If every person who ever lived crowded together in one spot, how much area would be covered, in terms of the area of Rhode Island?": 1,
+        "How many pennies would it take to create a walkable bridge from Boston, MA to Portugal, assuming that pennies sink (and that you therefore must stack pennies from the bottom of the ocean floor)": 16
+    }
+    "codebusters": {
+        "Code is ABC": "ABC",
+        "Code is WAAT": "WAAT"
     }
 }
