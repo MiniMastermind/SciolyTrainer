@@ -1,5 +1,5 @@
 {
-    "fermi": {
+    "Fermi Questions": {
             "What is the area of Madagascar, in square angstroms?": 32,
             "How tall, in feet, is the 22nd tallest building in the world?": 3,
             "What is 7<sup>43</sup>?": 36,
@@ -280,8 +280,16 @@
         "If every person who ever lived crowded together in one spot, how much area would be covered, in terms of the area of Rhode Island?": 1,
         "How many pennies would it take to create a walkable bridge from Boston, MA to Portugal, assuming that pennies sink (and that you therefore must stack pennies from the bottom of the ocean floor)": 16
     },
-    "codebusters": {
+    "Codebusters": {
         "Code is ABC": "ABC",
         "Code is WAAT": "WAAT"
+    }
+    "Disease Detectives": {
+        "Code is DISEASE": "DISEASE",
+        "Code is detect": "detect"
+    }
+    "Optics": {
+        "Code is a": "a",
+        "Code is ee": "ee"
     }
 }
