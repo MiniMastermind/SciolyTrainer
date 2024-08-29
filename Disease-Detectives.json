@@ -1,6 +1,6 @@
 {
     "questions": {
-        "Rickards, 2023" = {
+        "Rickards, 2023": {
     "The phenomenon that describes when the combined effect of two pathogens is greater than the sum of the individual pathogens' effects." : ["N/A", "srq", "", "Synergistic Effect", 0],
     "A study in which participants are first grouped based on exposure status and then retroactively or proactively analyzed for disease status." : ["N/A", "srq", "", "Cohort Study", 0],
     "An illness or disease that is unintentionally caused by medical treatment." : ["N/A", "srq", "", "Iatrogenic", 0],
