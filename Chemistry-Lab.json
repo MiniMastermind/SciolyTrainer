@@ -47,7 +47,7 @@
   "For the reaction Ag<sub>2</sub>CO<sub>3</sub>(s) ⇌ 2Ag<sup>+</sup>(aq) + CO<sub>3</sub><sup>2-</sup>(aq), what will be the effect on the position of this equilibrium of adding solid AgNO<sub>3</sub>? Give a brief explanation for your answer.": ["", "lrq", "", "The equilibrium will shift towards the left (more precipitate will be formed). Adding AgNO<sub>3</sub> increases [Ag<sup>+</sup>], so the system reacts by minimizing the stress (Le Chatelier’s Principle).", 0],
   "What color is phenolphthalein in basic conditions?": ["", "srq", "", "Pink", 0],
   "What color is phenolphthalein in acidic conditions?": ["", "srq", "", "Colorless", 0],
-  "Find the equilibrium expression for the reaction: Fe<sup>3+</sup> + SCN<sup>-</sup> ⇌ FeSCN<sup>2+</sup>.": ["", "lrq", "", "K<sub>eq</sub> = [FeSCN<sup>2+</sup>] / ([Fe<sup>3+</sup>][SCN<sup>-</sup>])", 0]
+  "Write the equilibrium expression for the reaction: Fe<sup>3+</sup> + SCN<sup>-</sup> ⇌ FeSCN<sup>2+</sup>.": ["", "lrq", "", "K<sub>eq</sub> = [FeSCN<sup>2+</sup>] / ([Fe<sup>3+</sup>][SCN<sup>-</sup>])", 0]
     }
   }
 }
