@@ -1,0 +1,36 @@
+{
+  "questions": {
+    "VT Invitational, 2025": {
+  "Which type of microscopy would be most appropriate to evaluate a bacterium after Gram staining? <br>(A) Bright-field <br>(B) Scanning Electron <br>(C) Fluorescence <br>(D) Transmission Electron": ["", "mcq", "", "a", 0],
+  "If you are viewing a specimen through a compound microscope with a standard eyepiece using the 40x objective lens, what is the total magnification? <br>(A) 40x <br>(B) 4000x <br>(C) 200x <br>(D) 400x": ["", "mcq", "", "d", 0],
+  "Which type of microscopy would be best for live/dead imaging of bacterial samples? <br>(A) Bright-field <br>(B) Scanning Electron <br>(C) Fluorescence <br>(D) Phase Contrast": ["", "mcq", "", "c", 0],
+  "Which type of microscopy is best used to observe thin and unstained samples? <br>(A) Phase Contrast <br>(B) Bright-field <br>(C) Transmission Electron <br>(D) Fluorescence": ["", "mcq", "", "a", 0],
+  "Scanning electron microscopy would be the best method for visualizing which structure? <br>(A) Cell membrane <br>(B) Pilus <br>(C) Mitochondria <br>(D) DNA": ["", "mcq", "", "b", 0],
+  "The presence of lipopolysaccharide in the cell membrane is characteristic of which of the following? <br>(A) Gram-positive bacteria <br>(B) Viruses <br>(C) Gram-negative bacteria <br>(D) Cocci": ["", "mcq", "", "c", 0],
+  "Which of the following is a component of the cell wall that confers acid-fastness? <br>(A) Mycolic acid <br>(B) Lipopolysaccharide <br>(C) Peptidoglycan <br>(D) Capsid": ["", "mcq", "", "a", 0],
+  "Which of the following is most likely to be acid-fast? <br>(A) E. coli <br>(B) P. furiosus <br>(C) M. tuberculosis <br>(D) S. aureus": ["", "mcq", "", "c", 0],
+  "Which component of the Gram stain procedure causes Gram-negative bacteria to appear pink? <br>(A) Crystal violet <br>(B) Gram’s iodine <br>(C) Congo red <br>(D) Safranin": ["", "mcq", "", "d", 0],
+  "Which type of bacterial locomotion is driven by adhesins on the cell surface? <br>(A) Swimming <br>(B) Gliding <br>(C) Twitching <br>(D) Swarming": ["", "mcq", "", "c", 0],
+  "Flagella are the primary structure involved in which type of locomotion? <br>(A) Swimming <br>(B) Gliding <br>(C) Twitching <br>(D) Sliding": ["", "mcq", "", "a", 0],
+  "Chemotaxis is the movement of an organism in response to which type of stimulus? <br>(A) Physical <br>(B) Chemical <br>(C) Light <br>(D) Sound": ["", "mcq", "", "b", 0],
+  "The individual protein structures that make up the viral capsid are called: <br>(A) Capsomeres <br>(B) Peptides <br>(C) Amino Acids <br>(D) Envelopes": ["", "mcq", "", "a", 0],
+  "Which most accurately describes the primary function of spike proteins? <br>(A) Bind to and recognize host cells <br>(B) Facilitate entry of the virus into the host cell <br>(C) Bind to host antibodies to confer immunity <br>(D) Protect the virus from degradation by the host": ["", "mcq", "", "a", 0],
+  "The absence of which of the following in the cell wall distinguishes archaea from bacteria? <br>(A) Lipopolysaccharide <br>(B) Type IV Pili <br>(C) Flagella <br>(D) Peptidoglycan": ["", "mcq", "", "d", 0],
+  "Contractile vacuoles primarily regulate which of the following? <br>(A) The amount of cytoplasm in the cell <br>(B) The size of the cell <br>(C) The amount of water in the cell <br>(D) Concentration of salts in the cell": ["", "mcq", "", "c", 0],
+  "Which of the following is the reproductive structure of filamentous fungi? <br>(A) Hyphae <br>(B) Conidia <br>(C) Rhizoid <br>(D) Sporangiophore": ["", "mcq", "", "d", 0],
+  "Which of the following statements are false? <br>(A) Yeasts are single celled organisms <br>(B) Yeasts reproduce through budding <br>(C) Yeasts form true hyphae <br>(D) Yeasts contain endoplasmic reticulum": ["", "mcq", "", "c", 0],
+  "Which of the following is a structure in photosynthetic microorganisms that aids in light reception? <br>(A) Vacuole <br>(B) Carboxysome <br>(C) Endospore <br>(D) Eyespot": ["", "mcq", "", "d", 0],
+  "Which size filter would be most appropriate for removal of most bacteria from a liquid? <br>(A) 0.22mm <br>(B) 0.22um <br>(C) 0.4um <br>(D) 0.4mm": ["", "mcq", "", "b", 0],
+  "Which chemical causes oxidation of cellular components, leading to rupture of the cellular membrane? <br>(A) Hydrogen peroxide <br>(B) Bleach <br>(C) Ethanol <br>(D) Dish soap": ["", "mcq", "", "a", 0],
+  "mecA, commonly found in Staphylococcus aureus, is a gene that confers resistance to which of the following? <br>(A) Cephalexin and Doxycycline <br>(B) Enrofloxacin and Penicillin <br>(C) Penicillin and Methicillin <br>(D) Cephalothin and Cephalexin": ["", "mcq", "", "c", 0],
+  "Which class of antibiotics target DNA gyrase and topoisomerase IV to inhibit bacterial DNA replication? <br>(A) Cephalosporins <br>(B) Fluoroquinolones <br>(C) Tetracyclines <br>(D) Beta-Lactams": ["", "mcq", "", "b", 0],
+  "Which class of antibiotics inhibits bacterial cell wall synthesis? <br>(A) Tetracyclines <br>(B) Fluoroquinolones <br>(C) Macrolides <br>(D) Penicillins": ["", "mcq", "", "d", 0],
+  "Which type of media would you use if you wanted to identify a specific chemical reaction for a variety of bacteria species? <br>(A) Selective <br>(B) Differential <br>(C) Both Selective and Differential <br>(D) Neither Selective nor Differential": ["", "mcq", "", "b", 0],
+  "If you wanted to prove that a bacterial colony is umbonate, what type of media would you grow it on? <br>(A) Liquid <br>(B) Solid <br>(C) Selective <br>(D) Differential": ["", "mcq", "", "b", 0],
+  "When culturing a pathogenic bacterium, what is the most appropriate incubation temperature (in Celsius)? <br>(A) 30 <br>(B) 28 <br>(C) 32 <br>(D) 37": ["", "mcq", "", "d", 0],
+  "Which phase of a bacterial growth cycle is characterized by minimal cell division and production of enzymes necessary for growth? <br>(A) Log Phase <br>(B) Exponential Phase <br>(C) Lag Phase <br>(D) Stationary Phase": ["", "mcq", "", "c", 0],
+  "Which of the following are the reasons for a decrease in bacterial population during death phase? <br>(A) pH Changes <br>(B) Phagocytosis <br>(C) Nutrient Depletion <br>(D) A & B <br>(E) A & C <br>(F) B & C <br>(G) All of the above": ["", "mcq", "", "e", 0],
+  "Which of the following types of bacteria are unable to be reliably cultured through traditional culture methods? <br>(A) Rods <br>(B) Cocci <br>(C) Mycobacteria <br>(D) Spirochetes": ["", "mcq", "", "d", 0]
+    }
+  }
+}
