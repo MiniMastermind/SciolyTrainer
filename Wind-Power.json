@@ -1,0 +1,38 @@
+{
+  "questions": {
+    "VT Invitational, 2025": {
+  {
+  "A wind turbine has a rotor of diameter 40 m, an air density of ρ=1.225 kg/m³, and an overall power coefficient C<sub>p</sub>=0.4(B) If the wind speed is 10 m/s, estimate the output power of the turbine. Answer to the nearest kW.": ["", "lrq", "", "323 kW", 0],
+  "A certain three-phase generator is rated at 600 kW at a power factor of 0.9. Assume the generator operates at that rating. Determine the apparent power (in kVA) of the generator.": ["", "lrq", "", "667 kVA", 0],
+  "A certain three-phase generator is rated at 600 kW at a power factor of 0.9. Assume the generator operates at that rating. Determine the reactive power Q (in kVAR).": ["", "lrq", "", "291 kVAR", 0],
+  "A battery has a nominal voltage of 12 V and a rated capacity of 80 Ah. If the battery is used to power a constant load that draws 4 A, estimate how many hours the battery can theoretically supply the load before reaching its rated capacity. Ignore any efficiency losses.": ["", "lrq", "", "20 hours", 0],
+  "A transmission line has a resistance of 0.25 Ω. If 200 A of current flows through this line, compute the power loss (P<sub>loss</sub>) in watts.": ["", "lrq", "", "10,000 W", 0],
+  "A transmission line has a resistance of 0.25 Ω. If 200 A of current flows through this line, compute the fraction of power lost if the transmitted power at this current is P<sub>trans</sub>=50 kW.": ["", "lrq", "", "20%", 0],
+  "You have a proposed wind farm site with an average wind speed of 8 m/s at the hub height. If each turbine at this site is expected to produce 1.2 GWh per year and costs $1 million per MW of rated capacity to install, estimate how many turbines are needed to achieve a total annual energy output of 48 GWh.": ["", "lrq", "", "40 turbines", 0],
+  "You have a proposed wind farm site with an average wind speed of 8 m/s at the hub height. If each turbine at this site is expected to produce 1.2 GWh per year and costs $1 million per MW of rated capacity to install, compute the approximate total installation cost.": ["", "lrq", "", "$80 million", 0],
+  "In 1920, Albert Betz derived an important theoretical limit for wind turbines, often called the Betz Limit. Give the maximum theoretical fraction of power in the wind that can be extracted (as a percent).": ["", "srq", "", "59.3%", 0],
+  "In 1920, Albert Betz derived an important theoretical limit for wind turbines, often called the Betz Limit. Give a brief explanation of why it is not possible to capture 100% of the wind's energy.": ["", "lrq", "", "Capturing 100% of the wind's energy would require stopping the wind completely, which is impossible because the air must continue to flow to maintain the pressure difference.", 0],
+  "If a 2 MW wind turbine operates with a capacity factor of 35%, estimate its annual energy production in MWh.": ["", "lrq", "", "6,132 MWh", 0],
+  "If a 2 MW wind turbine operates with a capacity factor of 35%, estimate the approximate reduction in CO<sub>2</sub> emissions if each MWh offsets 0.5 metric tons of CO<sub>2</sub>.": ["", "lrq", "", "3,066 metric tons of CO<sub>2</sub>", 0],
+  "A proposed 50 MW wind farm has 25 turbines, each rated at 2 MW. The average wind speed at the site is 9 m/s, and each turbine is expected to have a capacity factor of 30%. Calculate the total expected annual energy in GWh for the entire wind farm.": ["", "lrq", "", "131.4 GWh", 0],
+  "A proposed 50 MW wind farm has 25 turbines, each rated at 2 MW. The average wind speed at the site is 9 m/s, and each turbine is expected to have a capacity factor of 30%. Suppose the total cost for installing the farm is $1,200 per kW of rated power. Estimate the farm's total installation cost in millions of dollars.": ["", "lrq", "", "$60 million", 0],
+  "A proposed 50 MW wind farm has 25 turbines, each rated at 2 MW. The average wind speed at the site is 9 m/s, and each turbine is expected to have a capacity factor of 30%. If each kWh is sold at $0.05, how much revenue (in millions of dollars) would this farm generate per year?": ["", "lrq", "", "$6.57 million", 0],
+  "A wind turbine blade with a higher aspect ratio (longer and thinner) generally: <br>(A) Increases drag significantly but reduces lift. <br>(B) Decreases power output in high-speed winds. <br>(C) Decreases tip losses and can improve aerodynamic efficiency. <br>(D) Eliminates the need for pitch control.": ["", "mcq", "", "3", 0],
+  "True or False: Increasing the pitch angle of a rotor blade at high wind speeds helps protect the turbine from structural damage.": ["", "mcq", "", "True", 0],
+  "A generator's stator is: <br>(A) The rotating part of the machine. <br>(B) The stationary part of the machine. <br>(C) Another name for the rotor winding. <br>(D) Only found in direct current motors.": ["", "mcq", "", "2", 0],
+  "True or False: Permanent magnet generators eliminate the need for external excitation current.": ["", "mcq", "", "True", 0],
+  "During charging of a battery, energy is: <br>(A) Converted into mechanical energy. <br>(B) Stored as chemical potential energy in the battery cells. <br>(C) Lost entirely as heat. <br>(D) Irrelevant to the battery's state of charge.": ["", "mcq", "", "2", 0],
+  "True or False: In a supercapacitor, stored energy primarily depends on the chemical reactions within the electrolyte.": ["", "mcq", "", "False", 0],
+  "True or False: High-voltage transmission lines are used because higher voltage reduces current for the same power, thus reducing resistive losses.": ["", "mcq", "", "True", 0],
+  "Which of the following is a primary way to reduce power loss in long-distance transmission? <br>(A) Use lower-voltage lines to minimize insulation requirements. <br>(B) Increase the current while keeping voltage constant. <br>(C) Employ high-voltage lines and possibly DC transmission over very long distances. <br>(D) Provide minimal spacing between conductors.": ["", "mcq", "", "3", 0],
+  "True or False: When siting a large commercial wind farm, land area and local wind speed data are more critical factors than proximity to existing transmission lines.": ["", "mcq", "", "False", 0],
+  "Which of the following is the least critical step when installing a small residential wind turbine? <br>(A) Conducting a wind site assessment. <br>(B) Obtaining local zoning permits. <br>(C) Measuring load demand to size the turbine appropriately. <br>(D) Designing superconducting cables for local grid connection.": ["", "mcq", "", "4", 0],
+  "True or False: The earliest known use of windmills for grain grinding and water pumping can be traced back over 1,000 years.": ["", "mcq", "", "True", 0],
+  "California is one of the leading wind farm states. Approximately when did large-scale commercial wind farms begin to appear in California? <br>(A) 1920s <br>(B) Late 1970s and early 1980s <br>(C) 1990s <br>(D) 2008–2010 period": ["", "mcq", "", "2", 0],
+  "True or False: Wind power development can have ecological impacts such as habitat fragmentation for certain bird and bat species.": ["", "mcq", "", "True", 0],
+  "Land-use conflicts surrounding wind farms are more likely to arise from which factor? <br>(A) Zero noise emissions. <br>(B) Highly restricted farmland easements. <br>(C) Visual impact and possible shadow flicker on nearby communities. <br>(D) Complete absence of roads for service access.": ["", "mcq", "", "3", 0],
+  "True or False: Denmark was among the earliest leaders in modern wind turbine technology and continues to be a major player in the wind industry.": ["", "mcq", "", "True", 0]
+}
+    }
+  }
+}
