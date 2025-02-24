@@ -1,7 +1,6 @@
 {
   "questions": {
     "VT Invitational, 2025": {
-  {
   "A wind turbine has a rotor of diameter 40 m, an air density of ρ=1.225 kg/m³, and an overall power coefficient C<sub>p</sub>=0.4(B) If the wind speed is 10 m/s, estimate the output power of the turbine. Answer to the nearest kW.": ["", "lrq", "", "323 kW", 0],
   "A certain three-phase generator is rated at 600 kW at a power factor of 0.9. Assume the generator operates at that rating. Determine the apparent power (in kVA) of the generator.": ["", "lrq", "", "667 kVA", 0],
   "A certain three-phase generator is rated at 600 kW at a power factor of 0.9. Assume the generator operates at that rating. Determine the reactive power Q (in kVAR).": ["", "lrq", "", "291 kVAR", 0],
@@ -32,7 +31,6 @@
   "True or False: Wind power development can have ecological impacts such as habitat fragmentation for certain bird and bat species.": ["", "mcq", "", "True", 0],
   "Land-use conflicts surrounding wind farms are more likely to arise from which factor? <br>(A) Zero noise emissions. <br>(B) Highly restricted farmland easements. <br>(C) Visual impact and possible shadow flicker on nearby communities. <br>(D) Complete absence of roads for service access.": ["", "mcq", "", "3", 0],
   "True or False: Denmark was among the earliest leaders in modern wind turbine technology and continues to be a major player in the wind industry.": ["", "mcq", "", "True", 0]
-}
     }
   }
 }
